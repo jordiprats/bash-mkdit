@@ -1,0 +1,8 @@
+meta:
+  description: mkdit (make finger) command line tool 
+  vendor: jordiprats
+  maintainer: jordiprats
+files:
+  "/usr/bin/mkdit":
+    file: mkdit
+    mode: "0755"
